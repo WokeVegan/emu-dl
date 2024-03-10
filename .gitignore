@@ -1,3 +1,5 @@
 .idea
 venv
 emuw.cfg
+database/*.json_
+emuw/__pycache__
